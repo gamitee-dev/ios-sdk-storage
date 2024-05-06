@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
     spec.readme             = "https://github.com/gamitee-dev/ios-sdk-storage/blob/${spec.version.to_s}/README.md"
     spec.changelog          = "https://github.com/gamitee-dev/ios-sdk-storage/blob/${spec.version.to_s}/CHANGELOG.md"
-    spec.documentation_url  = "https://github.com/gamitee-dev/ios-sdk-storage/documentation/joynedmobilesdk/"
+    spec.documentation_url  = "https://gamitee-dev.github.io/ios-sdk-storage/documentation/joynedmobilesdk/"
 
     spec.source             = { 
         :git => "https://github.com/gamitee-dev/ios-sdk-storage.git",
