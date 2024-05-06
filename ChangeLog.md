@@ -1,4 +1,4 @@
-# Joyned-sdk-ios - ChangeLog
+# joyned-sdk-ios - ChangeLog
  
 ## ChangeLog
 - 1.0.0.22
